@@ -12,3 +12,4 @@ C:\Users\gn\Desktop\giovanni\DIO\WEX .NET C#\ExemploFundamentos\obj\Debug\net9.0
 C:\Users\gn\Desktop\giovanni\DIO\WEX .NET C#\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.pdb
 C:\Users\gn\Desktop\giovanni\DIO\WEX .NET C#\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\gn\Desktop\giovanni\DIO\WEX .NET C#\ExemploFundamentos\obj\Debug\net9.0\ref\ExemploFundamentos.dll
+C:\Users\gn\Desktop\giovanni\DIO\WEX .NET C#\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.sourcelink.json
