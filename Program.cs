@@ -1,7 +1,7 @@
 ﻿using ExemploFundamentos.Models;
 
 
-// Calculadora calc = new Calculadora();
+Calculadora calc = new Calculadora();
 
 // calc.Somar(10, 30);
 // calc.Subtrair(10, 50);
@@ -11,23 +11,24 @@
 // calc.Seno(30);
 // calc.Coseno(30);
 // calc.Tangente(30);
+calc.RaizQuadrada(9);
 
-int numeroIncremento = 10;
+// int numeroIncremento = 10;
 
-Console.WriteLine(numeroIncremento);
+// Console.WriteLine(numeroIncremento);
 
-Console.WriteLine("Incrementando o 10");
-//numero = numero + 1;
-numeroIncremento++;
+// Console.WriteLine("Incrementando o 10");
+// //numero = numero + 1;
+// numeroIncremento++;
 
-Console.WriteLine(numeroIncremento);
+// Console.WriteLine(numeroIncremento);
 
-int numeroDecremento = 20;
-Console.WriteLine(numeroDecremento);
-Console.WriteLine("Decrementando o 20");
-numeroDecremento--;
+// int numeroDecremento = 20;
+// Console.WriteLine(numeroDecremento);
+// Console.WriteLine("Decrementando o 20");
+// numeroDecremento--;
 
-Console.WriteLine(numeroDecremento);
+// Console.WriteLine(numeroDecremento);
 
 
 
